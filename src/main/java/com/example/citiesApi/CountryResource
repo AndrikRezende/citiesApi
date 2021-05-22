@@ -1,0 +1,7 @@
+package com.example.citiesApi;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class CountryResource{
+
+}
